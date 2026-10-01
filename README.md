@@ -50,7 +50,9 @@ Errors return `{ "error": "...", "details": [...] }` with 400 / 404 / 500; inter
 
 ## Screenshots
 
-_Add screenshots here._
+### Dashboard
+
+![Dashboard](images/dashboard.png)
 
 ## Project Purpose
 
